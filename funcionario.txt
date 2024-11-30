@@ -1,0 +1,3 @@
+Nome: fsaafs|Cargo: fasasf|CPF: 123321|Salário: 2112.00
+Nome: sasa|Cargo: assa|CPF: 123|Salário: 1221.00
+Nome: mfa|Cargo: fsafsa|CPF: 124|Salário: 2121.00
